@@ -1,4 +1,4 @@
-import matchers from '../matchers.js';
+import matchers from '../matchers';
 
 test('order of elements >', () => {
   const newArr = [
